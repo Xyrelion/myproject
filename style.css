@@ -1,0 +1,25 @@
+h1{
+    color: green;
+}
+
+p{
+    color: blue;
+}
+
+.cont{
+    border: 2px solid red;
+    padding: 5px;
+    justify-items: center;
+    border-radius: 5px;
+}
+
+.btn{
+    border: none;
+    background-color: orangered;
+    color: white;
+    text-align: center;
+    align-self: center;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 1em;
+}
